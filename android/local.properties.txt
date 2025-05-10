@@ -1,0 +1,3 @@
+sdk.dir=C\:\\Users\\Asus\\AppData\\Local\\Android\\Sdk
+ndk.dir=C\:\\Users\\Asus\\AppData\\Local\\Android\\Sdk\\ndk\\android-ndk-r27c
+
